@@ -6,7 +6,7 @@
 #include <windows.h>				/*Permite usar comandos de Windows Console*/
 #include <stdio.h>
 
-#define CANTIDAD 10000 				/*Cantidad m�xima de contactos: 500*/
+#define CANTIDAD 500 				/*Cantidad m�xima de contactos: 500*/
 
 using namespace std;
 
